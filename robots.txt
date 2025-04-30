@@ -1,2 +1,2 @@
-pc21
+server2
 dic-list.txt
